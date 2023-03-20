@@ -9,7 +9,7 @@ nav_order: 1
 
 I'm Hayden Hong, a Software Development Engineer II at Amazon and a graduate of the University of Washington.
 
-Pragmatic, performance, privacy-focused technologies are my focus. 
+Pragmatic, performant, privacy-focused technologies are my focus. 
 
 ## About Me
 
