@@ -4,7 +4,7 @@ layout: default
 parent: Blog
 ---
 
-# Spinning cat cube
+# Rotating cat cube
 
 {: .note }
 This blog post contains adapted code from David DeSandro's excellent [Intro to CSS 3D transforms](https://3dtransforms.desandro.com) ([License](https://github.com/desandro/3dtransforms#license)). I highly recommend reading it!
