@@ -24,6 +24,9 @@ Location
 Email
 : <a href="mailto:hello@haydenhong.com">hello@haydenhong.com</a>
 
+Mastodon
+: <a rel="me" href="https://mastodon.social/@afruitpie">@afruitpie@mastodon.social</a>
+
 Education
 : Bachelor of Science in Informatics @ University of Washington
 : Bachelor of Arts in Geography @ University of Washington
